@@ -1,0 +1,10 @@
+package task;
+
+public class printname {
+
+	public static void main(String[] args) {
+		if (System.out.printf("Omprakash Sahu\n") == null) {}
+	
+	
+	}
+}
